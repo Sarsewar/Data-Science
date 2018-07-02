@@ -6,7 +6,7 @@ Concepts include:<br>
  3.Matplotlib<br>
  4.skit-learn<br>
  5.Data Visualization<br> 
- 6.Machine Learning Algorith<br> 
+ 6.Machine Learning Algorithm
   <li> Classification </li>
   <li> Clustering </li>
    <li> Regression Analysis</li>
