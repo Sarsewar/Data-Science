@@ -1,5 +1,5 @@
 # Data Science 
-This repository contain all my Data Science Python notebooks. <br>
+This repository contains all my Data Science Python notebooks. <br>
 Concepts include:<br>
  1.Numpy <br>
  2.Pandas <br>
